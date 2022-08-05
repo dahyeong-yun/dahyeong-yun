@@ -20,3 +20,12 @@ Here are some ideas to get you started:
 -->
   
 </div>
+<div>
+**Repo prefix desc**
+- lecture : 강의에 나오는 코드들
+- book : 책에 나오는 예제 코드들
+- asmt : 특정 과정 내에 진행한 과제
+- pjt : 토이 프로젝트
+- ref : fork한 참고용 repo
+- prtc : 문법이나 사용 방식에 대한 학습용
+</div>
